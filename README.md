@@ -67,5 +67,3 @@ The response can be observed in the terminal window where you started the Stripe
 After a successful webhook is triggered, the application will write an entry
 into the log file. The log file is saved in `server/checkout_success.log`. You
 can open this with any text editor.
-
-# rings-online-shop
